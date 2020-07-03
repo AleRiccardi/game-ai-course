@@ -22,16 +22,6 @@
 **Contents**:
 
 
-## Assignment 12
-
-**Links**:
-* [Sheet](12_FSM/practical-problems-12.pdf)
-
-
-**Contents**:
-
-
-
 ## Assignment 14
 
 **Links**:
