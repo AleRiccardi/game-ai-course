@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GAMEAI-EXAM
-Code for GAMEAI exam.
-=======
 # Game AI course
 
 
@@ -61,4 +57,3 @@ Code for GAMEAI exam.
 
 **Contents**:
 *  
->>>>>>> d04819bbb677395db05cd7fe66b09a087757e55b
